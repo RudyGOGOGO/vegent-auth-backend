@@ -1,0 +1,12 @@
+{
+  "artifact": "vegent-identity.zip",
+  "sha256": "f650db857cf6b234ba8a6c6f43f85ee5674f9fb992da2b3493a394735e9b74d7",
+  "ca_sha256": "90a6f1a7978a1b1b096dca6c57511ca48d3b8cf052f8e704baf358f34ea2f21b",
+  "qualification": "UNVERIFIED_CANDIDATE",
+  "policy": {
+    "bcrypt_cost": 12,
+    "policy_version": "1.1",
+    "source_revision": "1.1.0-candidate",
+    "qualification": "UNVERIFIED_CANDIDATE"
+  }
+}
